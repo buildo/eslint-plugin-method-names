@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-method-names",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Enforce naming conventions on method names",
   "keywords": [
     "eslint",
@@ -23,5 +23,5 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "license": "ISC"
+  "license": "MIT"
 }
