@@ -25,7 +25,7 @@ In your `.eslintrc`:
 ## Rule
 Restrict class method names to a regex. It applies to methods and static properties defining a function.
 
-## Example
+## Usage
 With the configuration above, the following patterns are considered valid
 
 ```js
