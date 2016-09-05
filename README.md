@@ -1,7 +1,7 @@
 # eslint-plugin-method-names
 
-[![Build Status](https://travis-ci.org/buildo/eslint-plugin-method-names.svg?branch=master)](https://travis-ci.org/buildo/eslint-plugin-no-loops)
-[![npm](https://img.shields.io/npm/v/eslint-plugin-method-names.svg)](https://www.npmjs.com/package/eslint-plugin-no-loops)
+[![Build Status](https://drone.our.buildo.io/api/badges/buildo/eslint-plugin-method-names/status.svg)](https://drone.our.buildo.io/buildo/eslint-plugin-method-names)
+[![npm](https://img.shields.io/npm/v/eslint-plugin-method-names.svg)](https://www.npmjs.com/package/eslint-plugin-method-names)
 
 ## Installation
 ```sh
